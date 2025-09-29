@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "Turkish": {
+      "accuracy": 0.75,
+      "correct": 9,
+      "total": 12
+    },
+    "English": {
+      "accuracy": 1.0,
+      "correct": 8,
+      "total": 8
+    }
+  },
+  "transformer": {
+    "Turkish": {
+      "accuracy": 0.8333333333333334,
+      "correct": 10,
+      "total": 12
+    },
+    "English": {
+      "accuracy": 1.0,
+      "correct": 8,
+      "total": 8
+    }
+  }
+}

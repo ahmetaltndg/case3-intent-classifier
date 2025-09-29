@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Kütüphane saat kaçta açılıyor?",
+    "intent": "opening_hours",
+    "language": "tr"
+  },
+  {
+    "text": "Kitabımı geç getirdim, ne kadar ceza ödeyeceğim?",
+    "intent": "fine_policy",
+    "language": "tr"
+  },
+  {
+    "text": "Kaç kitap ödünç alabilirim?",
+    "intent": "borrow_limit",
+    "language": "tr"
+  },
+  {
+    "text": "Çalışma odası rezervasyonu yapmak istiyorum",
+    "intent": "room_booking",
+    "language": "tr"
+  },
+  {
+    "text": "E-kitap nasıl indirebilirim?",
+    "intent": "ebook_access",
+    "language": "tr"
+  },
+  {
+    "text": "WiFi şifresi nedir?",
+    "intent": "wifi",
+    "language": "tr"
+  },
+  {
+    "text": "Kartımı kaybettim, ne yapmalıyım?",
+    "intent": "lost_card",
+    "language": "tr"
+  },
+  {
+    "text": "Üyeliğimi nasıl yenilerim?",
+    "intent": "renewal",
+    "language": "tr"
+  },
+  {
+    "text": "Hastayım, kitabı getiremedim",
+    "intent": "ill",
+    "language": "tr"
+  },
+  {
+    "text": "Bu hafta hangi etkinlikler var?",
+    "intent": "events",
+    "language": "tr"
+  },
+  {
+    "text": "Çok gürültülü, şikayet etmek istiyorum",
+    "intent": "complaint",
+    "language": "tr"
+  },
+  {
+    "text": "Genel bilgi almak istiyorum",
+    "intent": "other",
+    "language": "tr"
+  },
+  {
+    "text": "What are the library hours?",
+    "intent": "opening_hours",
+    "language": "en"
+  },
+  {
+    "text": "I returned my book late, what's the fine?",
+    "intent": "fine_policy",
+    "language": "en"
+  },
+  {
+    "text": "How many books can I borrow?",
+    "intent": "borrow_limit",
+    "language": "en"
+  },
+  {
+    "text": "Can I book a study room?",
+    "intent": "room_booking",
+    "language": "en"
+  },
+  {
+    "text": "How do I download e-books?",
+    "intent": "ebook_access",
+    "language": "en"
+  },
+  {
+    "text": "What's the WiFi password?",
+    "intent": "wifi",
+    "language": "en"
+  },
+  {
+    "text": "I lost my library card",
+    "intent": "lost_card",
+    "language": "en"
+  },
+  {
+    "text": "How do I renew my membership?",
+    "intent": "renewal",
+    "language": "en"
+  }
+]

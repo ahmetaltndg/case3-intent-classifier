@@ -1,0 +1,23 @@
+{
+  "total_examples": 21,
+  "intents": [
+    "lost_card",
+    "borrow_limit",
+    "wifi",
+    "room_booking",
+    "ill",
+    "other",
+    "events",
+    "fine_policy",
+    "renewal",
+    "opening_hours",
+    "ebook_access",
+    "complaint"
+  ],
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "source": "real_world_manual_curation",
+  "purpose": "CASE_3_evaluation"
+}

@@ -1,0 +1,7 @@
+# Gemini API Key for LLM-based data generation
+GEMINI_API_KEY=AIzaSyDnSarqf-iC3SM4n-baAz853eFwnzHZjIo
+
+# Alternative: Use other LLM providers
+# OPENAI_API_KEY=your_openai_api_key_here
+# ANTHROPIC_API_KEY=your_anthropic_api_key_here
+# COHERE_API_KEY=your_cohere_api_key_here

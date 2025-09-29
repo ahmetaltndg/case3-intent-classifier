@@ -1,0 +1,191 @@
+[
+  {
+    "text": "Kütüphane ne zaman açık?",
+    "intent": "opening_hours",
+    "language": "tr",
+    "id": "real_test_1",
+    "source": "real_world",
+    "difficulty": "easy",
+    "length": 4
+  },
+  {
+    "text": "What time does the library open?",
+    "intent": "opening_hours",
+    "language": "en",
+    "id": "real_test_2",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 6
+  },
+  {
+    "text": "Hafta sonu çalışma saatleri nedir?",
+    "intent": "opening_hours",
+    "language": "tr",
+    "id": "real_test_3",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 5
+  },
+  {
+    "text": "Kitabı geç getirdim, ne kadar ceza var?",
+    "intent": "fine_policy",
+    "language": "tr",
+    "id": "real_test_4",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 7
+  },
+  {
+    "text": "How much is the late fee?",
+    "intent": "fine_policy",
+    "language": "en",
+    "id": "real_test_5",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 6
+  },
+  {
+    "text": "Kaç kitap alabilirim?",
+    "intent": "borrow_limit",
+    "language": "tr",
+    "id": "real_test_6",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 3
+  },
+  {
+    "text": "What's my borrowing limit?",
+    "intent": "borrow_limit",
+    "language": "en",
+    "id": "real_test_7",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 4
+  },
+  {
+    "text": "Çalışma odası rezerve edebilir miyim?",
+    "intent": "room_booking",
+    "language": "tr",
+    "id": "real_test_8",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 5
+  },
+  {
+    "text": "Can I book a study room?",
+    "intent": "room_booking",
+    "language": "en",
+    "id": "real_test_9",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 6
+  },
+  {
+    "text": "E-kitap nasıl indirebilirim?",
+    "intent": "ebook_access",
+    "language": "tr",
+    "id": "real_test_10",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 3
+  },
+  {
+    "text": "How do I access e-books?",
+    "intent": "ebook_access",
+    "language": "en",
+    "id": "real_test_11",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 5
+  },
+  {
+    "text": "WiFi şifresi nedir?",
+    "intent": "wifi",
+    "language": "tr",
+    "id": "real_test_12",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 3
+  },
+  {
+    "text": "What's the WiFi password?",
+    "intent": "wifi",
+    "language": "en",
+    "id": "real_test_13",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 4
+  },
+  {
+    "text": "Kartımı kaybettim, ne yapmalıyım?",
+    "intent": "lost_card",
+    "language": "tr",
+    "id": "real_test_14",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 4
+  },
+  {
+    "text": "I lost my card, what should I do?",
+    "intent": "lost_card",
+    "language": "en",
+    "id": "real_test_15",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 8
+  },
+  {
+    "text": "Üyeliğimi nasıl yenilerim?",
+    "intent": "renewal",
+    "language": "tr",
+    "id": "real_test_16",
+    "source": "real_world",
+    "difficulty": "easy",
+    "length": 3
+  },
+  {
+    "text": "How do I renew my membership?",
+    "intent": "renewal",
+    "language": "en",
+    "id": "real_test_17",
+    "source": "real_world",
+    "difficulty": "easy",
+    "length": 6
+  },
+  {
+    "text": "Hastayım, kitabı getiremedim",
+    "intent": "ill",
+    "language": "tr",
+    "id": "real_test_18",
+    "source": "real_world",
+    "difficulty": "medium",
+    "length": 3
+  },
+  {
+    "text": "Bu hafta hangi etkinlikler var?",
+    "intent": "events",
+    "language": "tr",
+    "id": "real_test_19",
+    "source": "real_world",
+    "difficulty": "hard",
+    "length": 5
+  },
+  {
+    "text": "Çok gürültülü, şikayet etmek istiyorum",
+    "intent": "complaint",
+    "language": "tr",
+    "id": "real_test_20",
+    "source": "real_world",
+    "difficulty": "easy",
+    "length": 5
+  },
+  {
+    "text": "Genel bilgi almak istiyorum",
+    "intent": "other",
+    "language": "tr",
+    "id": "real_test_21",
+    "source": "real_world",
+    "difficulty": "easy",
+    "length": 4
+  }
+]
